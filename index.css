@@ -5,3 +5,33 @@
 .container-item{
     margin: 40px;
 }
+.box-2{
+    position: absolute;
+     left: 60%;
+     /* top: 20px; */
+}
+.box-1{
+    /* position: absolute; */
+    
+}
+
+/* .box-3{
+    position: absolute;
+    left: 10%;
+} */
+.card {
+    
+    
+}
+.card-footer {
+   
+}
+#weatherImage{
+    position: absolute;
+    top: 80%;
+    left: 20%;
+}
+#weatherImage {
+    height: 200px;
+width: 200px;
+border-radius: 20px;}
