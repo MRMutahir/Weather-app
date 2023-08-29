@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  background-color: #7cb9e8;
+}
+
+.container-card {
+  border-radius: 10px;
+}
+
+.text-center {
+  width: 400px;
+
+  background: black;
+  margin: 40px;
+}
+
+.container-item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.card {
+  box-shadow: 10px 10px 10px black;
+}
+.h4 {
+  font-size: 22px;
+  font-family: "Lucida Sans", "Lucida Sans Regular";
+  font-weight: 600;
+  color: azure;
+}
+
+.C-NAME {
+  color: azure;
+  font-size: 64px;
+  font-weight: 900;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  /* color: cadetblue; */
+  margin-left: 20px;
+  text-shadow: 10px 10px 10px rgb(15, 15, 15);
+}
+
+.weatherImage {
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+  margin-left: 40%;
+
+  /* margin:  0 auto; */
+}
+i {
+  text-decoration: none;
+  color: black;
+}
