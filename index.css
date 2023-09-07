@@ -8,22 +8,23 @@
   background-color: #7cb9e8;
 }
 
-.container-card {
-  border-radius: 10px;
+/* .grid {
+  display: flex;
+  color: red;
+  flex-direction: row;
 }
 
+/*  */
+
+/* .container-card {
+  border-radius: 10px;
+} */
 .text-center {
   width: 400px;
-
   background: black;
   margin: 40px;
 }
 
-.container-item {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
 .card {
   box-shadow: 10px 10px 10px black;
 }
